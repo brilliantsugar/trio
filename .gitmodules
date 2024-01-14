@@ -1,0 +1,6 @@
+[submodule "tests/3rdparty/relacy"]
+	path = tests/3rdparty/relacy
+	url = git@github.com:dvyukov/relacy.git
+[submodule "tests/3rdparty/benchmark"]
+	path = tests/3rdparty/benchmark
+	url = git@github.com:google/benchmark.git
